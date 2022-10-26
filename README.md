@@ -1,6 +1,4 @@
 # Black-White-Banner-site
- 
-## Сайт-баннер с интересной фичей hover'а на js
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/QWOaGpN
 
